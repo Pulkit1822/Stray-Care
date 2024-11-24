@@ -1,0 +1,24 @@
+{
+    "name": "Stray-Care-frontend",
+    "version": "1.0.0",
+    "description": "Frontend for Stray-Care project",
+    "main": "index.js",
+    "scripts": {
+      "start": "vite",
+      "build": "vite build",
+      "serve": "vite preview"
+    },
+    "dependencies": {
+      "react": "^17.0.2",
+      "react-dom": "^17.0.2",
+      "react-router-dom": "^5.2.0",
+      "axios": "^0.21.1",
+      "@googlemaps/js-api-loader": "^1.12.4",
+      "flowchart-react": "^1.0.0"
+    },
+    "devDependencies": {
+      "@vitejs/plugin-react": "^1.0.0",
+      "vite": "^2.3.7"
+    }
+  }
+  

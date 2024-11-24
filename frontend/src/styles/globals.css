@@ -1,0 +1,51 @@
+/* Global Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f4f8;
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Header Styles */
+  header {
+    background-color: #4a90e2;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Main Content Styles */
+  main {
+    padding: 20px;
+  }
+  
+  /* Footer Styles */
+  footer {
+    background-color: #4a90e2;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+  }
+  
+  /* Sidebar Styles */
+  .sidebar {
+    background-color: #fff;
+    border-right: 1px solid #ddd;
+    padding: 20px;
+    width: 250px;
+    position: fixed;
+    height: 100%;
+    overflow-y: auto;
+  }
+  
+  /* Main Content Area Styles */
+  .main-content {
+    margin-left: 270px;
+    padding: 20px;
+  }
+  

@@ -1,0 +1,29 @@
+camera_module:
+  camera_id: 0
+  frame_width: 1280
+  frame_height: 720
+  proc_width: 640
+  proc_height: 480
+  fps: 30
+  mqtt:
+    broker: "localhost"
+    port: 1883
+    topic: "camera/frames"
+
+sensor_module:
+  trigger_pin: 18
+  echo_pin: 24
+  sampling_rate: 20
+  alert_threshold: 100
+  mqtt:
+    broker: "localhost"
+    port: 1883
+    topic: "sensor/alerts"
+
+alert_module:
+  led_pin: 12
+  buzzer_pin: 16
+  mqtt:
+    broker: "localhost"
+    port: 1883
+    topic: "system/alerts"

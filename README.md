@@ -145,4 +145,3 @@ Happy learning and coding!
 If you find this repository useful, don't forget to star it! ⭐️
 
 ### Written by [Pulkit](https://github.com/Pulkit1822)
-# Stray-Care

@@ -1,0 +1,16 @@
+flask==2.0.1
+flask-cors==3.0.10
+flask-sqlalchemy==2.5.1
+flask-jwt-extended==4.3.1
+google-cloud-vision==2.4.2
+google-cloud-storage==1.42.0
+opencv-python==4.5.3.56
+numpy==1.21.2
+python-dotenv==0.19.0
+pytest==6.2.5
+gunicorn==20.1.0
+tensorflow==2.6.0
+pillow==8.3.2
+requests==2.26.0
+websockets==9.1
+paho-mqtt==1.5.1
